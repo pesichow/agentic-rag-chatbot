@@ -1,3 +1,4 @@
+<img width="1632" height="640" alt="generated-image" src="https://github.com/user-attachments/assets/2afb9c31-1bc5-4859-b800-0a3e7d70cda8" />
 ## Architecture
 agentic-rag-chatbot/
 │
